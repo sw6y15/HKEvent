@@ -1,7 +1,7 @@
 # Drone X AI Hong Kong Event
 ## Duration: 7th Jan - 27th Feb
 
-![Microsoft Logo](/images/logo.png)
+![Microsoft Logo](/image/mssz.png)
 
 Enjoy the workshop?
 
