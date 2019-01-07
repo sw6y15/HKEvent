@@ -5,7 +5,7 @@
 
 Enjoy the workshop?
 
-If you have any questiones and any suggestiones about it, **Please** open issues at this repository.
+If you have any question and any suggestion about it, **Please** open issues at this repository.
 
 We are willing to response you at 9.00 a.m. to 6.00 p.m. in weekdays.
 
