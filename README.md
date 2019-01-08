@@ -1,11 +1,17 @@
 # Drone X AI Hong Kong Event
 ## Duration: 7th Jan - 27th Feb
+[![Generic badge](https://img.shields.io/badge/Status-Work_In_Progress-red.svg)]
+[![Generic badge](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)]
 
 ![Microsoft Logo](/image/mssz.png)
 
 Enjoy the workshop?
 
 If you have any question and any suggestion about it, **Please** open issues at this repository.
+
+Issues format:
+
+
 
 We are willing to response you at 9.00 a.m. to 6.00 p.m. in weekdays.
 
