@@ -1,5 +1,5 @@
 # Drone X AI Hong Kong Event
-## Duration: 7th Jan - 27th Feb
+## Duration: 7th Jan - 18th Jan
 
 [![Generic badge](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](#)
 
